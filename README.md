@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I'm currently a senior undergraduate student at Huazhong University of Science and Technology.
-- 🌱 I’m broadly interested in stuffs regarding Software Engineering, including program analysis, LLM4SE ...
+- 🌱 I’m broadly interested in stuffs regarding Software Engineering, including programming languages, program analysis, AI4SE, compilers ...
 - 👯 I'll join Key Lab of High Confidence Software, Technology, MoE at Peking University in 2025 Fall as a Ph.D. student under the supervization of Prof. Bing Xie.
 
 ![Runbang Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=uniqueFranky&show_icons=true&theme=tokyonight)
