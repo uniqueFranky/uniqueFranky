@@ -3,6 +3,8 @@
 - 🌱 I’m broadly interested in stuffs regarding Software Engineering, including programming languages, program analysis, AI4SE, compilers ...
 - 👯 I'll join Key Lab of High Confidence Software Technology, MoE at Peking University in 2025 Fall as a Ph.D. student under the supervision of Prof. Bing Xie.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uniqueFranky&layout=compact&theme=tokyonight)](https://github.com/uniqueFranky/github-readme-stats)
+
 ![Runbang Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=uniqueFranky&show_icons=true&theme=tokyonight)
 <!--
 **uniqueFranky/uniqueFranky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
