@@ -1,7 +1,8 @@
 ### Hi there 👋
-- 🔭 I'm currently a senior undergraduate student at Huazhong University of Science and Technology.
-- 🌱 I’m broadly interested in stuffs regarding Software Engineering, including programming languages, program analysis, formal methods, AI4SE, compilers ...
-- 👯 I'll join [Key Lab of High Confidence Software Technology, MoE](https://hcst.pku.edu.cn/) at [Peking University](https://cs.pku.edu.cn/) in 2025 Fall as a Ph.D. student under the supervision of [Prof. Bing Xie](https://cs.pku.edu.cn/info/1084/1712.htm).
+
+- 🌱 I’m broadly interested in topics related to Software Engineering, including program analysis, software reuse, and software testing.  
+- 🔭 I’m currently pursuing a Ph.D. at [Peking University](https://cs.pku.edu.cn/) under the supervision of [Prof. Bing Xie](https://cs.pku.edu.cn/info/1084/1712.htm).  
+- 📫 Feel free to reach out via email: [y_r_b@qq.com](mailto:y_r_b@qq.com) or [rbyan25@stu.pku.edu.cn](mailto:rbyan25@stu.pku.edu.cn).  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uniqueFranky&layout=compact&theme=tokyonight)](https://github.com/uniqueFranky/github-readme-stats)
 
