@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m broadly interested in topics related to Software Engineering, including program analysis, software reuse, and software testing.  
+- 🌱 I’m broadly interested in topics related to Software Engineering.  
 - 🔭 I’m currently pursuing a Ph.D. at [Peking University](https://cs.pku.edu.cn/) under the supervision of [Prof. Bing Xie](https://cs.pku.edu.cn/info/1084/1712.htm).  
 - 📫 Feel free to reach out via email: [y_r_b@qq.com](mailto:y_r_b@qq.com) or [rbyan25@stu.pku.edu.cn](mailto:rbyan25@stu.pku.edu.cn).  
 
